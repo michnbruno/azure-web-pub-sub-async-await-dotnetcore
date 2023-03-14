@@ -1,0 +1,15 @@
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\PubSub.Test1.exe
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\PubSub.Test1.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\PubSub.Test1.deps.json
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\PubSub.Test1.runtimeconfig.json
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\PubSub.Test1.pdb
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Azure.Messaging.WebPubSub.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\walkthroughs\.NETDevelopment\topics\pubsub\PubSub\PubSub.Test1\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll
