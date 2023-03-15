@@ -1,4 +1,4 @@
-# azure-webpubsub
+# azure-web-pub-sub-async-await-dotnetcore
 
 Azure has a relatively new PaaS publisher/subscriber service, Azure Web PubSub PaaS Service, which seems to me is a 2nd pass on SignalR.
 
