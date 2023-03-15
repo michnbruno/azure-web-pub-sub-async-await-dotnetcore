@@ -1,7 +1,7 @@
 # azure-web-pub-sub-async-await-dotnetcore
 
 Azure has a relatively new PaaS publisher/subscriber service, Azure Web PubSub PaaS Service, which seems to me is a 2nd pass on SignalR.<br>
-See Demo at: <a target="_blank" href="https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview">Azure Web PubSub PaaS Service</a>
+See Demo at: <a target="_blank" href="https://app-pubsub.azurewebsites.net/">Web PubSub Demo</a>
 
 ### Origin of this effort:
 -Wanted to have a look at this Azure Web PubSub PaaS Service offering as part of my exploring "Dapr" and other Azure PaaS messaging services more generally.
@@ -11,7 +11,7 @@ See Demo at: <a target="_blank" href="https://learn.microsoft.com/en-us/azure/az
 1. "Publish" of Microsoft Learn Example "Breakfast Events" to Azure PubSub Service from .NET 6.0 MVC/API Controller.
 2. "Subscribe" by ASP.NET MVC View/UI to PubSub service and subsequent "emit" of the events via WebSocket to the UI.<br>
 
-<a target="_blank" href="https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview">Azure Web PubSub PaaS Service</a>
+<a target="_blank" href="https://app-pubsub.azurewebsites.net/">Web PubSub Demo</a>
 
 
 
